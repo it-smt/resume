@@ -13,12 +13,13 @@ smt_razrab@mail.ru | 89124135027 | Нижневартовск | https://github.c
 ---
 
 ### Навыки  
-- Языки программирования: Python  
-- Фреймворки: Django, FastAPI, Flask  
-- Фронтенд: React, HTML/CSS, JavaScript (базовые знания)  
-- Базы данных: PostgreSQL, SQLAlchemy  
-- Инструменты: Git, Docker, Postman  
-- Операционные системы: Linux (базовое понимание командной строки)  
+- Языки программирования: Python
+- Фреймворки: Django, FastAPI, Flask
+- Библиотеки: Celery, PyTest, logging, Grafna(немного)
+- Фронтенд: React, HTML/CSS, JavaScript (базовые знания)
+- Базы данных: PostgreSQL, SQLAlchemy
+- Инструменты: Git, Docker, Postman, Flower
+- Операционные системы: Linux (базовое понимание командной строки)
 
 ---
 
